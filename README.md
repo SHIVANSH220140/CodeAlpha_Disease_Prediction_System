@@ -65,5 +65,5 @@ A Machine Learning project that predicts the likelihood of diseases such as Diab
 
 ## Author
 
-Shivansh Tripathi
-CodeAlpha Machine Learning Intern
+* Shivansh Tripathi
+* CodeAlpha Machine Learning Intern
