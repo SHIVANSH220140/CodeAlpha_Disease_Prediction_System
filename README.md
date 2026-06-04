@@ -1,54 +1,5 @@
-# Credit Scoring Model
+# 🏥 Disease Prediction System
 
-## Overview
-
-A Machine Learning project that predicts an individual's credit risk using demographic and financial information.
-
-## Features
-
-* Data Cleaning & Preprocessing
-* Missing Value Handling
-* Feature Encoding
-* Logistic Regression
-* Random Forest Classifier
-* Precision, Recall, F1-Score Evaluation
-* ROC-AUC Analysis
-* Feature Importance Visualization
-* Streamlit Frontend Application
-
-## Dataset Features
-
-* Age
-* Sex
-* Job
-* Housing
-* Saving Accounts
-* Checking Account
-* Credit Amount
-* Duration
-* Purpose
-
-## Results
-
-* Logistic Regression Accuracy: 69.6%
-* Random Forest Accuracy: 70.7%
-* ROC-AUC Score: 0.727
-
-## Technologies Used
-
-* Python
-* Pandas
-* NumPy
-* Scikit-Learn
-* Matplotlib
-* Streamlit
-
-## Author
-
-Shivansh Tripathi
-CodeAlpha Machine Learning Intern
-
-# 🏥 Disease Prediction System#
 ## Overview
 
 A Machine Learning project that predicts the likelihood of diseases such as Diabetes, Heart Disease, and Breast Cancer using patient medical data. The system uses multiple classification algorithms and provides a simple Streamlit-based web interface for real-time predictions.
